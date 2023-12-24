@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://vercel.com/akshadgawdes-projects"
+                href="https://medium.com/@gawdeakshad"
                 target="_blank"
                 rel="noreferrer"
               >

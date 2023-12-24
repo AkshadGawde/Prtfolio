@@ -61,7 +61,7 @@ function Projects() {
               title="Portfolio Website"
               description="Crafted a personalized and visually stunning portfolio website for a friend using vanilla JavaScript, HTML, and CSS. The website showcases their unique skills, projects, and personality, providing a standout online presence to leave a lasting impression."
               ghLink="https://github.com/AkshadGawde/Shivansh_Web"
-              demoLink="https://portfolio-gamma-dusky-39.vercel.app/"
+              demoLink="-"
             />
           </Col>
 
@@ -70,9 +70,9 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Event App"
-              description="Pioneered my journey into Next.js by successfully developing an engaging event application, leveraging the power and versatility of Next.js. This inaugural project showcases my ability to create dynamic and responsive web applications, setting the stage for future innovative endeavors in web development.sing 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="Developed an innovative Event Web App using Next.js, a React-based framework, to provide users with a seamless and engaging platform for discovering upcoming events. This dynamic application not only showcases a visually appealing display of scheduled events but also offers an intuitive and user-friendly experience. Leveraging Next.js allowed for efficient routing, rendering, and state management, resulting in a fast and responsive web app."
               ghLink="https://github.com/AkshadGawde/Event-app"
-              demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
+              demoLink="-"
               include
               a
               demo

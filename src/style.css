@@ -22,6 +22,24 @@ button:focus {
   box-shadow: none !important;
 }
 
+@media screen and (max-width: 768px) {
+  
+  html {
+    --section-background-color: linear-gradient(
+      to bottom left,
+      rgba(17, 16, 16, 0.4),
+      rgba(12, 8, 24, 0.7)
+    );
+
+    --image-gradient: linear-gradient(
+      to bottom left,
+      rgba(17, 16, 16, 0.5),
+      rgba(12, 10, 22, 0.8)
+    );
+  }
+}
+
+
 /* --------- */
 /*  Preloader */
 /* --------- */
@@ -80,6 +98,10 @@ button:focus {
   transition: all 0.3s ease-out 0s !important;
   box-shadow: 0px 5px 5px 0px rgb(129, 122, 171) !important;
   backdrop-filter: blur(15px) !important;
+}
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  /* Add more responsive adjustments as needed */
 }
 
 .navbar {
@@ -491,6 +513,17 @@ button:focus {
   height: 100% !important;
 }
 
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  .project-card,
+  .blog-card {
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+}
+
 .blog-link {
   color: white !important;
   text-decoration: none !important;
@@ -538,6 +571,18 @@ button:focus {
   font-size: 2.3em !important;
   font-weight: 500 !important;
   padding-top: 10px !important;
+}
+
+@media screen and (max-width: 768px) {
+  /* Adjust styles for smaller screens */
+  .card-img-top {
+    padding: 10px !important;
+    border-radius: 5px !important;
+  }
+
+  .project-heading {
+    font-size: 1.8em !important;
+  }
 }
 
 /* --------- */
