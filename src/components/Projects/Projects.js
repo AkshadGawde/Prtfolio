@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="ClassHub"
               description="Designed and developed a dynamic and engaging website for a Mumbai-based educational institution, utilizing the versatility of React.js. This project not only underscores my expertise in crafting intuitive user interfaces but also emphasizes the tailored solutions provided for the specific needs of the classes."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/AkshadGawde"
               demoLink="-"
             />
           </Col>
