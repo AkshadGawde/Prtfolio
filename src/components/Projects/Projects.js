@@ -28,7 +28,7 @@ function Projects() {
               title="E-commerce"
               description="Successfully designed and developed a feature-rich e-commerce website leveraging the power of React.js. This project showcases my proficiency in creating dynamic and responsive user interfaces. Additionally, I integrated APIs seamlessly to enhance the website's functionality, ensuring a seamless and efficient shopping experience for users."
               ghLink="https://github.com/AkshadGawde/E-commerce"
-              demoLink="-"
+              demoLink="https://ecommerce.akshad.in/"
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               title="Portfolio Website"
               description="Crafted a personalized and visually stunning portfolio website for a friend using vanilla JavaScript, HTML, and CSS. The website showcases their unique skills, projects, and personality, providing a standout online presence to leave a lasting impression."
               ghLink="https://github.com/AkshadGawde/Shivansh_Web"
-              demoLink="-"
+              demoLink="https://portfolio-gamma-dusky-39.vercel.app/"
             />
           </Col>
 
