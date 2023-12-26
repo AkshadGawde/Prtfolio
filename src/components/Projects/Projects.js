@@ -50,7 +50,7 @@ function Projects() {
               title="Weather App"
               description="Designed and implemented a dynamic Weather App utilizing HTML, CSS, and JavaScript, seamlessly integrating real-time weather forecasts through API integration. Users can now experience up-to-the-minute weather updates at their fingertips, enhancing their daily planning and activities."
               ghLink="https://github.com/AkshadGawde/Portfoilo/blob/main/weather.html"
-              demoLink="-"
+              demoLink="https://weather.akshad.in/"
             />
           </Col>
 
